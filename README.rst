@@ -5,7 +5,7 @@
 pyqg: Python Quasigeostrophic Model
 ===================================
 
-|DOI| |pypi| |Build Status| |landscape| |binder|
+|DOI| |pypi| |Build Status| |codecov| |docs| |landscape| |binder|
 
 pyqg is a python solver for quasigeostrophic systems. Quasigeostophic
 equations are an approximation to the full fluid equations of motion in
@@ -39,10 +39,15 @@ Links
    :target: https://zenodo.org/badge/latestdoi/14957/pyqg/pyqg
 .. |Build Status| image:: https://travis-ci.org/pyqg/pyqg.svg?branch=master
    :target: https://travis-ci.org/pyqg/pyqg
+.. |codecov| image:: https://codecov.io/github/pyqg/pyqg/coverage.svg?branch=master
+   :target: https://codecov.io/github/pyqg/pyqg?branch=master
 .. |pypi| image:: https://badge.fury.io/py/pyqg.svg
    :target: https://badge.fury.io/py/pyqg
 .. |landscape| image:: https://landscape.io/github/pyqg/pyqg/master/landscape.svg?style=flat
    :target: https://landscape.io/github/pyqg/pyqg/master
    :alt: Code Health
-.. |binder| image:: http://mybinder.org/badge.svg 
-    :target: http://mybinder.org/repo/crocha700/pyqg
+.. |binder| image:: http://mybinder.org/badge.svg
+   :target: http://mybinder.org/repo/crocha700/pyqg
+.. |docs| image:: http://readthedocs.org/projects/pyqg/badge/?version=stable
+   :target: http://pyqg.readthedocs.org/en/stable/?badge=stable
+   :alt: Documentation Status

@@ -1,8 +1,10 @@
 What's New
 ==========
 
-v0.1.5 (???)
+v0.2.0 (27 April 2016)
 ------------
+
+Added compatibility with python 3.
 
 Implemented linear baroclinic stability analysis method.
 
@@ -12,7 +14,7 @@ Implemented multi-layer subclass.
 
 Added new logger that leverages on built-in python logging.
 
-Changed license to MIT
+Changed license to MIT.
 
 v0.1.4 (22 Oct 2015)
 --------------------
